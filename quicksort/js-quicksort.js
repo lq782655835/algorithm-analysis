@@ -1,4 +1,5 @@
 // 算法：递归（js可以取中间值，所以直接拿取中间值）
+// O(nlogn)
 
 function quickSort(arr) {
     if (arr.length <= 1) return arr

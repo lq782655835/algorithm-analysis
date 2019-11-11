@@ -1,4 +1,4 @@
-// 数组只需要交换下标即可
+// 数组只需要交换下标即可，同c++代码
 function reverse(arr) {
     let left = 0
     let right = arr.length - 1
